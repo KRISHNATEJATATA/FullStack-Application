@@ -1,0 +1,12 @@
+target/
+.mvn/
+.m2/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.DS_Store
+.idea/
+*.iml
+
