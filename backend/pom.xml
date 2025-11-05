@@ -78,6 +78,13 @@
             <scope>runtime</scope>
         </dependency>
         
+        <!-- H2 (dev profile) -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
         
         <!-- Test -->
         <dependency>
